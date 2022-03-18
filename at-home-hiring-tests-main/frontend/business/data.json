@@ -1,0 +1,110 @@
+[
+  {
+    "address": "1630 Revello Drive, Sunnydale, CA, USA",
+    "owner": "Buffy Summers",
+    "currency": "USD",
+    "floors": 4,
+    "id": 1,
+    "picture": "https://picsum.photos/id/1040/1200/800",
+    "price": 850000,
+    "rooms": 4,
+    "surface": 600,
+    "year": 1997
+  },
+  {
+    "address": "221B Baker Street, London, UK",
+    "owner": "Sherlock Holmes",
+    "currency": "GBP",
+    "floors": 3,
+    "id": 2,
+    "picture": "https://picsum.photos/id/164/1200/800",
+    "price": 450000,
+    "rooms": 5,
+    "surface": 200,
+    "year": 1887
+  },
+  {
+    "address": "1640 Riverside Drive, Hill Valley, CA, USA",
+    "owner": "Emmett Brown",
+    "currency": "USD",
+    "floors": 2,
+    "id": 3,
+    "picture": "https://picsum.photos/id/142/1200/800",
+    "price": 330000,
+    "rooms": 3,
+    "surface": 400,
+    "year": 1950
+  },
+  {
+    "address": "55, Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+    "owner": "French Government",
+    "currency": "EUR",
+    "floors": 8,
+    "id": 4,
+    "picture": "https://picsum.photos/id/192/1200/800",
+    "price": 1700000000,
+    "rooms": 365,
+    "surface": 78000,
+    "year": 1718
+  },
+  {
+    "address": "3170 W. 53 Road, Annapolis, Maryland, USA",
+    "owner": "Dana Scully",
+    "currency": "USD",
+    "floors": 1,
+    "id": 5,
+    "picture": "https://picsum.photos/id/164/1200/800",
+    "price": 180000,
+    "rooms": 2,
+    "surface": 40,
+    "year": 1974
+  },
+  {
+    "address": "344 Clinton Street, Apt. 3B, Metropolis, USA",
+    "owner": "Clark Kent",
+    "currency": "USD",
+    "floors": 3,
+    "id": 6,
+    "picture": "https://picsum.photos/id/101/1200/800",
+    "price": 360000,
+    "rooms": 2,
+    "surface": 42,
+    "year": 1967
+  },
+  {
+    "address": "0001 Cemetery Lane, Westfield, New Jersey, USA",
+    "owner": "Charles Addams",
+    "currency": "USD",
+    "floors": 512,
+    "id": 7,
+    "picture": "https://picsum.photos/id/1047/1200/800",
+    "price": 1330000,
+    "rooms": 12,
+    "surface": 1200,
+    "year": 1820
+  },
+  {
+    "address": "4 Privet Drive, Little Whinging, Surrey, UK",
+    "owner": "The Dursleys",
+    "currency": "GBP",
+    "floors": 2,
+    "id": 12,
+    "picture": "https://picsum.photos/id/122/1200/800",
+    "price": 200000,
+    "rooms": 3,
+    "surface": 280,
+    "year": 1950
+  },
+  {
+    "address": "50 Rue Taitbout, 75009 Paris, France",
+    "owner": "Patchwork",
+    "currency": "EUR",
+    "floors": 4,
+    "id": "13",
+    "picture": "https://picsum.photos/id/1040/1200/800",
+    "price": 4000000,
+    "rooms": 20,
+    "surface": 2000,
+    "year": 1930
+  }
+]
