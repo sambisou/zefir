@@ -33,4 +33,21 @@ export class BusinessDataResolver {
   ): Promise<GQLBusinessData> {
     return this.businessDataService.findBusinessDataByHomeUuid(homeUuid);
   }
+
+  @Query(() => GQLBusinessData)
+  async computeNegociationMargin(
+    targetSalePrice: number,
+    finalOfferPrice:number,
+    maxNegociationMargin:number
+  ): Promise<Number> {
+    return this.businessDataService.computeNegociationMargin(targetSalePrice,finalOfferPrice,maxNegociationMargin);
+  }
+
+  @Query(() => GQLBusinessData)
+  async computeServiceFees(
+    finalOfferPrice: number,
+    zipCode: string
+  ): Promise<Number> {
+    return this.businessDataService.computeServiceFees(finalOfferPrice,zipCode);
+  }
 }
